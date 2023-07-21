@@ -1,5 +1,9 @@
 # Sprinkle Cursors with Click Color Change
 
+![1](https://github.com/abdul-1432/Sprinkel_Cursor/assets/124916666/29c3d681-66f4-4630-81c0-6631e88914!
+[2](https://github.com/abdul-1432/Sprinkel_Cursor/assets/124916666/896b2cb6-add4-4d53-951b-d05f235549ac)
+14)
+![3](https://github.com/abdul-1432/Sprinkel_Cursor/assets/124916666/1436c8c0-f860-481b-975d-dc16accd2261)
 
 
 Sprinkle Cursors is a fun and interactive web application that changes the cursor's appearance into a sprinkle animation whenever the user clicks on the screen. The sprinkles not only make your website more engaging but also change color randomly on each click, adding a touch of creativity and excitement for your users.
@@ -17,7 +21,7 @@ To use the Sprinkle Cursors on your website, follow these simple steps:
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/your-username/sprinkle-cursors.git
+   [https://github.com/abdul-1432/Sprinkel_Cursor]
    ```
 
 2. **Include the necessary files**:
@@ -32,7 +36,7 @@ To use the Sprinkle Cursors on your website, follow these simple steps:
 
    In your `index.html` file, link the CSS and JavaScript files in the `<head>` and before the closing `</body>` tag, respectively:
 
-   ```html
+   ```HTML
    <link rel="stylesheet" href="styles.css">
    <script src="script.js"></script>
    ```
@@ -41,7 +45,7 @@ To use the Sprinkle Cursors on your website, follow these simple steps:
 
    Inside the `<body>` tag of your `index.html`, add a container element where the sprinkles will appear:
 
-   ```html
+   ```HTML
    <div class="sprinkle-container"></div>
    ```
 
@@ -69,12 +73,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- The sprinkle animation idea was inspired by [example-inspiration-site.com](https://example-inspiration-site.com).
+- The sprinkle animation idea was inspired by [example-inspiration-site. com](https://example-inspiration-site.com).
 - Special thanks to the contributors who made this project better.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at your-email@example.com.
+If you have any questions or suggestions, feel free to contact me at [gafoor.mngr@gmail.com](youremail@example.com).
 
 ---
 Feel free to customize the above template according to your project's specific details. Remember to provide clear instructions on how to use the Sprinkle Cursors, and don't forget to add your contact information for any inquiries. Happy coding!
