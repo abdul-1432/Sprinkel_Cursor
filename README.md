@@ -1,9 +1,12 @@
 # Sprinkle Cursors with Click Color Change
 
-![1](https://github.com/abdul-1432/Sprinkel_Cursor/assets/124916666/29c3d681-66f4-4630-81c0-6631e88914!
-[2](https://github.com/abdul-1432/Sprinkel_Cursor/assets/124916666/896b2cb6-add4-4d53-951b-d05f235549ac)
-14)
-![3](https://github.com/abdul-1432/Sprinkel_Cursor/assets/124916666/1436c8c0-f860-481b-975d-dc16accd2261)
+
+![1](https://github.com/abdul-1432/Sprinkel_Cursor/assets/124916666/73d298cd-32c4-4a58-a598-6c795942c6cf)
+![2](https://github.com/abdul-1432/Sprinkel_Cursor/assets/124916666/c5b236ec-c75b-4291-a812-942143cc0d9a)
+
+![3](https://github.com/abdul-1432/Sprinkel_Cursor/assets/124916666/b7f4d39e-69bf-4fc1-9d2b-5840a0a3f16e)
+
+
 
 
 Sprinkle Cursors is a fun and interactive web application that changes the cursor's appearance into a sprinkle animation whenever the user clicks on the screen. The sprinkles not only make your website more engaging but also change color randomly on each click, adding a touch of creativity and excitement for your users.
